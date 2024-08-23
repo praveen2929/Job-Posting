@@ -1,0 +1,9 @@
+com\posting\repositories\JobPostingRepository.class
+com\posting\config\SwaggerConfig.class
+com\posting\entities\JobPosting.class
+com\posting\exception\GlobalExceptionHandler.class
+com\posting\JobPostingApplication.class
+com\posting\controller\JobPostingController.class
+com\posting\exception\BadRequestException.class
+com\posting\exception\ResourceNotFoundException.class
+com\posting\service\JobPostingService.class
